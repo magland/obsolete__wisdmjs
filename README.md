@@ -4,5 +4,5 @@ wisdmcorejs
 Core JavaScript libraries for WISDM
 
 
-For more information, visit realhub.org or wisdmhub.org
+For more information, visit realhub.org
 
