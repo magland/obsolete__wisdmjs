@@ -1,4 +1,4 @@
-wisdmcorejs
+wisdmjs
 =============
 
 Core JavaScript libraries for WISDM
