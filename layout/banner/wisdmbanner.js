@@ -5,8 +5,8 @@
 
 require(banner.js);
 require(background.js);
-require("pages:/3rdparty/normalize/normalize.css");
-require("pages:/3rdparty/contextpopup/contextpopup.js");
+require("wisdmjs:/3rdparty/normalize/normalize.css");
+require("wisdmjs:/3rdparty/contextpopup/contextpopup.js");
 
 function initializeWisdmBanner(options) {
 	var X=new WisdmBanner();

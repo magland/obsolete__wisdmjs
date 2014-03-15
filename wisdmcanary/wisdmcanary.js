@@ -1,7 +1,7 @@
-require('$wisdmpages$/3rdparty/base64/base64.js');
-require('$wisdmpages$/3rdparty/zlib/zlib.inflate.js');
-require('$wisdmpages$/core/utils.js');
-require('$wisdmpages$/3rdparty/md5/md5.js');
+require('wisdmjs:/3rdparty/base64/base64.js');
+require('wisdmjs:/3rdparty/zlib/zlib.inflate.js');
+require('wisdmjs:/utils.js');
+require('wisdmjs:/3rdparty/md5/md5.js');
 
 /*
 ******************* wisdmcanary.js **********************

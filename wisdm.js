@@ -4,9 +4,9 @@ This is a very old file, from earliest versions of WISDM, so it is quite sloppy.
 Planning to rewrite it.
 */
 
-require("pages:/core/wisdmcanary/wisdmcanary.js");
-require('pages:/core/layout/banner/wisdmbanner.js');
-require('pages:/core/style/wisdmstyle.js');
+require("wisdmcanary/wisdmcanary.js");
+require('layout/banner/wisdmbanner.js');
+require('style/wisdmstyle.js');
 
 function initializeWisdmSession(params,callback) {
 	var WM=new WisdmManager();
